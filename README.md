@@ -1,6 +1,6 @@
 # Dallen Openshaw
 
-I build data platforms that move reliably from raw sources to analytics-ready outputs — prioritizing correctness and observability over complexity.
+I build data platforms that move reliably from raw sources to analytics-ready outputs, prioritizing correctness and observability over complexity.
 
 ---
 
